@@ -58,7 +58,7 @@ app.use('/container', GreenTeaContainer);
 /**
  * Get port from environment and store in Express.
  */
-const port = process.env.PORT || '3000';
+const port = process.env.PORT || '4000';
 app.set('port', port);
 
 
