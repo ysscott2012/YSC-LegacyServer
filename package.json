@@ -1,0 +1,23 @@
+{
+  "name": "ysc-gateway",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "mongoose": "^4.11.6",
+    "multer": "^1.3.0",
+    "debug": "~2.6.9",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "core-js": "^2.4.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "jsonwebtoken": "^7.4.2"
+  }
+}
